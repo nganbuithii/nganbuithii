@@ -13,16 +13,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/nganbuithii" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+    <img width="100" height="100" src="https://img.icons8.com/clouds/100/linkedin.png" alt="linkedin"/>
   </a>
   <a href="https://www.facebook.com/nyanthyi.23/" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+    <img width="100" height="100" src="https://img.icons8.com/clouds/100/facebook.png" alt="facebook"/>
   </a> 
   <a href="https://instagram.com/https://www.instagram.com/nyan.thyii_/" alt="ig" target="_blank" >
-   <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>
+  <img width="100" height="100" src="https://img.icons8.com/clouds/100/instagram-new--v3.png" alt="instagram-new--v3"/>
   </a>
   <a href="mailto:nganbui.23112003@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+    <img width="100" height="100" src="https://img.icons8.com/clouds/100/gmail-new.png" alt="gmail-new"/>
   </a>
 </p>
 
