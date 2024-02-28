@@ -1,6 +1,6 @@
 
 
-<img align="left" width="300" src="https://i.pinimg.com/564x/64/3d/48/643d4829e77e60578753033a7ff37715.jpg">
+<img align="left" width="250" src="https://i.pinimg.com/564x/64/3d/48/643d4829e77e60578753033a7ff37715.jpg">
 <h1 align="center">Hi there 👋, I'm Ngân</h1>
 <p align="center">
   <h3 align="center">I'm an student at Ho Chi Minh City Open University </h3>
