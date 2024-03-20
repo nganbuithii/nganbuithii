@@ -1,10 +1,7 @@
 
 <h1 align="center">Hi there 👋, I'm Ngân</h1>
-<p align="center">
   <h3 align="center">I'm an student at Ho Chi Minh City Open University </h3>
-</p>
 
-<br />
 
 ## 📫 How to reach me:
 
