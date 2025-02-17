@@ -3,7 +3,8 @@
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Ngan</a></b>.
     <br>I am an Information Technology student at Ho Chi Minh City Open University.<br>
-      <br>Currently, I am a Front-end developer
+      <br>
+I'm on my way to become a Frontend developer 
 .<br>
 
 </samp>
